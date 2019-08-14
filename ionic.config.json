@@ -1,0 +1,7 @@
+{
+  "name": "New_TTS_SMS_APP",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
